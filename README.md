@@ -1,3 +1,6 @@
+![final_Tavola disegno 1](https://github.com/MattiaRaffaele/MattiaRaffaele/assets/88104208/5e8b95a4-374d-40d4-82e4-aaef9067309e)
+Creator of THE LATE GAME JAM
+
 # 🍅PomoBash in developement
 **Pomodoro timer in bash is going to be released soon as an open source project to contribute to**
 
