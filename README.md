@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **TeaTusk** a task manager usable in bash terminals
 
-- 🌱 I’m currently learning **C#, Python, Kotlin, Bash**
+- 🌱 I’m currently learning **C#, Python, Kotlin, Bash, HTML, CSS, JavaScript**
 
 - 👯 I’m looking to collaborate on **Web dev projects, Android dev projects, and Unity projects**
 
